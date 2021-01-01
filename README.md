@@ -1,4 +1,8 @@
-# # # # # # # # # # # # Hello, world! 💚👋👋
+# Hello, world! 💚👋👋
+
+ <br />
+ 
+  ### Full-stack JavaScript developer
 
 ![](/images/Portfolio.jpg)
 
