@@ -63,7 +63,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 [![Fakhreedine's github stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
