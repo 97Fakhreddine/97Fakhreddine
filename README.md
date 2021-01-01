@@ -55,7 +55,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 ### Connect with me in :
 
-[instagram](https://www.instagram.com/fakhreddine_messaoudi/)
+<img align="left" alt="instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" /> [instagram](https://www.instagram.com/fakhreddine_messaoudi/)
 <br />
 
 [linkedin](https://www.linkedin.com/in/messaoudi-fakhreddine-603728190/)
