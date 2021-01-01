@@ -1,4 +1,4 @@
-# Hello, world! 💚👋👋
+# # # # # # # # # # # # Hello, world! 💚👋👋
 
 ![](/images/Portfolio.jpg)
 
@@ -49,7 +49,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 ## <br />
 
-### 📕 Latest Blog Posts
+### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
