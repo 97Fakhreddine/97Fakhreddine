@@ -58,4 +58,4 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" /> [instagram](https://www.instagram.com/fakhreddine_messaoudi/)
 <br />
 
-[linkedin](https://www.linkedin.com/in/messaoudi-fakhreddine-603728190/)
+<img align="left" alt="linkindIn" width="26px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" /> [linkedin](https://www.linkedin.com/in/messaoudi-fakhreddine-603728190/)
