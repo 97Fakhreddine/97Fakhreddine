@@ -40,8 +40,6 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 ## <br />
 
-## <br />
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
