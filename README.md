@@ -2,7 +2,7 @@
 
  <br />
 
-### Full-stack JavaScript developer
+### Full-stack developer
 
 ![](/images/Portfolio.jpg)
 
