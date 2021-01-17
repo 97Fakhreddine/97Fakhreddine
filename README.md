@@ -58,7 +58,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180618/yb/kisspng-cascading-style-sheets-css3-javascript-logo-5b279b716e5412.4534778915293223534519.jpg" />
 
 <img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180716/gyy/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6055ec0.625573901531749846022.jpg" />
-<img align="left" alt="linux" width="45px" src="https://spng.subpng.com/20180612/otl/kisspng-node-js-javascript-serverless-computing-software-d-node-js-5b20398aee2a98.7985553615288385389755.jpg" />
+<img align="left" alt="linux" width="45px" src="https://i.stack.imgur.com/PgcSR.png" />
 <img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180622/sg/kisspng-php-and-mysql-web-development-database-umbraco-mysql-5b2cc2e4d35788.4168860815296601328657.jpg" />
 
 
@@ -67,7 +67,6 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 
 
-## <br />
 
 ### 📕 Blog Posts
 
