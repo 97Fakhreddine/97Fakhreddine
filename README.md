@@ -51,9 +51,6 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="linux" width="45px" src="https://www.kindpng.com/picc/m/360-3600487_kali-nethunter-nethunter-hd-png-download.png" />
 <img align="left" alt="linux" width="45px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" />
-<img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180612/clx/kisspng-node-js-javascript-server-side-scripting-font-node-js-5b20396898d6e4.410157151528838504626.jpg" />
-<img align="left" alt="linux" width="45px" src="https://cdn.imgbin.com/5/3/21/imgbin-postgresql-database-logo-database-symbol-iLFSGrrVnd5YkJ7fcvU2JUcNk.jpg" />
-<img align="left" alt="linux" width="45px" src="https://cdn.imgbin.com/5/3/21/imgbin-postgresql-database-logo-database-symbol-iLFSGrrVnd5YkJ7fcvU2JUcNk.jpg" />
 
 <img align="left" alt="linux" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
