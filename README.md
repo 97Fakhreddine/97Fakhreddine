@@ -57,7 +57,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 <img align="left" alt="linux" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
-<img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180716/gyy/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6055ec0.625573901531749846022.jpg" />
+<img align="left" alt="linux" width="45px" src="https://gfxmag.com/wp-content/uploads/2016/07/javascript-vector-logo-2.png" />
 <img align="left" alt="linux" width="45px" src="https://i.stack.imgur.com/PgcSR.png" />
 <img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180622/sg/kisspng-php-and-mysql-web-development-database-umbraco-mysql-5b2cc2e4d35788.4168860815296601328657.jpg" />
 
