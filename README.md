@@ -55,7 +55,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="linux" width="45px" src="https://cdn.imgbin.com/5/3/21/imgbin-postgresql-database-logo-database-symbol-iLFSGrrVnd5YkJ7fcvU2JUcNk.jpg" />
 <img align="left" alt="linux" width="45px" src="https://cdn.imgbin.com/5/3/21/imgbin-postgresql-database-logo-database-symbol-iLFSGrrVnd5YkJ7fcvU2JUcNk.jpg" />
 
-<img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180618/yb/kisspng-cascading-style-sheets-css3-javascript-logo-5b279b716e5412.4534778915293223534519.jpg" />
+<img align="left" alt="linux" width="45px" src="https://c0.klipartz.com/pngpicture/188/673/sticker-png-cascading-style-sheets-css3-bootstrap-valid-blue-angle-text-rectangle-logo.png" />
 
 <img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180716/gyy/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6055ec0.625573901531749846022.jpg" />
 <img align="left" alt="linux" width="45px" src="https://i.stack.imgur.com/PgcSR.png" />
