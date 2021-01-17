@@ -51,7 +51,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="linux" width="45px" src="https://www.kindpng.com/picc/m/360-3600487_kali-nethunter-nethunter-hd-png-download.png" />
 <img align="left" alt="linux" width="45px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" />
-<img align="left" alt="linux" width="45px" src="https://www.clipartmax.com/png/small/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png" />
+<img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180427/hjq/kisspng-computer-icons-database-computer-software-computer-clause-5ae360aea60133.28291237152485086268.jpg" />
 
 
 
