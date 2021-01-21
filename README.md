@@ -10,7 +10,7 @@
 
 ### Who Am I? :
 
-I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as Civil engineering, Because i am already a Civil Engineering Technician. I also enjoy working on desing, Photoshop cs6, LightRoom, Premier Pro, Autocad, Autodesk Robot, and design in general, I am currently still studying as a software engineering development. I really enjoy coding than anything else I do.
+I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as Civil engineering, Because i am already a Civil Engineering Technician. I also enjoy working on desing, Photoshop cs6, LightRoom, Premier Pro, Autocad, Autodesk Robot, and design in general, I am currently still studying as a software  developer . I really enjoy coding than anything else I do.
 
 ### I'm a Software Developers !! <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -18,7 +18,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects / dive deeper with react
 - ⚡ Fun fact: I love Gaming and coding / Linux / the most fun fact thing is that i'm jumping everywhere 🤣🤣🤣
 
 <br />
