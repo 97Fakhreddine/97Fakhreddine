@@ -79,7 +79,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 
 - [Array and linked list](https://fakhri19971998.medium.com/the-diff%C3%A9rence-between-arrays-and-linked-lists-hash-table-ab4d0db112d3)
 - [Time management](https://fakhri19971998.medium.com/time-management-fa7307bb9d17)
--[meeting your deadlines](https://fakhri19971998.medium.com/deadlines-aa47c7f86a62)
+- [meeting your deadlines](https://fakhri19971998.medium.com/deadlines-aa47c7f86a62)
 <!--END_SECTION:activity-->
 
 <details>
