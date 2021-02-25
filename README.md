@@ -80,6 +80,8 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 - [Array and linked list](https://fakhri19971998.medium.com/the-diff%C3%A9rence-between-arrays-and-linked-lists-hash-table-ab4d0db112d3)
 - [Time management](https://fakhri19971998.medium.com/time-management-fa7307bb9d17)
 - [meeting your deadlines](https://fakhri19971998.medium.com/deadlines-aa47c7f86a62)
+- [Toy Problem](https://fakhri19971998.medium.com/toy-problem-spiral-traversal-e63861900630)
+- [The importance of planning before coding](https://fakhri19971998.medium.com/the-importance-of-planning-before-coding-a75c6d1dfcbb)
 - [more ..](https://medium.com/me/stories/public)
 <!--END_SECTION:activity-->
 
