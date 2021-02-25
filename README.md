@@ -19,6 +19,7 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects / dive deeper with react
+- I usually write blogs [](https://medium.com/me/stories/public)
 - ⚡ Fun fact: I love Gaming and coding / Linux / the most fun fact thing is that i'm jumping everywhere 🤣🤣🤣
 
 <br />
