@@ -62,6 +62,8 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="linux" width="45px" src="https://howtolearn.me/wp-content/uploads/2016/11/Robot-Structural-Analysis-Logo.jpg" />
 
 <img align="left" alt="linux" width="45px" src="https://cdn.auth0.com/blog/postman-integration/logo.png" />
+<img align="left" alt="redux" width="45px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/>
+<img align="left" alt="hooks" width="45px" src="https://st.depositphotos.com/1732591/2697/v/600/depositphotos_26979399-stock-illustration-two-crossed-fishing-hook.jpg"/>
 
 
 
