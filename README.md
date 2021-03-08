@@ -49,19 +49,17 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="linux" width="45px" src="https://www.kindpng.com/picc/m/360-3600487_kali-nethunter-nethunter-hd-png-download.png" />
-<img align="left" alt="linux" width="45px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" />
+<img align="left" alt="kali" width="45px" src="https://www.kindpng.com/picc/m/360-3600487_kali-nethunter-nethunter-hd-png-download.png" />
+<img align="left" alt="ubuntu" width="45px" src="https://www.clipartmax.com/png/middle/41-412903_ubuntu-logo-clipart-linux-ubuntu-logo-png.png" />
 
-<img align="left" alt="linux" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozpDAY82-mtxcsu4tZPhzgAnpLOhifxRBFg&usqp=CAU" />
+<img align="left" alt="photoshop" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozpDAY82-mtxcsu4tZPhzgAnpLOhifxRBFg&usqp=CAU" />
 
-<img align="left" alt="linux" width="45px" src="https://gfxmag.com/wp-content/uploads/2016/07/javascript-vector-logo-2.png" />
-<img align="left" alt="linux" width="45px" src="https://i.stack.imgur.com/PgcSR.png" />
-<img align="left" alt="linux" width="45px" src="https://banner2.cleanpng.com/20180622/sg/kisspng-php-and-mysql-web-development-database-umbraco-mysql-5b2cc2e4d35788.4168860815296601328657.jpg" />
-<img align="left" alt="linux" width="45px" src="https://cdn.worldvectorlogo.com/logos/autocad-2016-icon.svg" />
+<img align="left" alt="mysql" width="45px" src="https://banner2.cleanpng.com/20180622/sg/kisspng-php-and-mysql-web-development-database-umbraco-mysql-5b2cc2e4d35788.4168860815296601328657.jpg" />
+<img align="left" alt="autocad" width="45px" src="https://cdn.worldvectorlogo.com/logos/autocad-2016-icon.svg" />
 
-<img align="left" alt="linux" width="45px" src="https://howtolearn.me/wp-content/uploads/2016/11/Robot-Structural-Analysis-Logo.jpg" />
+<img align="left" alt="robot" width="45px" src="https://howtolearn.me/wp-content/uploads/2016/11/Robot-Structural-Analysis-Logo.jpg" />
 
-<img align="left" alt="linux" width="45px" src="https://cdn.auth0.com/blog/postman-integration/logo.png" />
+<img align="left" alt="postman" width="45px" src="https://cdn.auth0.com/blog/postman-integration/logo.png" />
 <img align="left" alt="redux" width="45px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/>
 <img align="left" alt="hooks" width="45px" src="https://st.depositphotos.com/1732591/2697/v/600/depositphotos_26979399-stock-illustration-two-crossed-fishing-hook.jpg"/>
 
