@@ -6,20 +6,20 @@
 
 ![](/images/Portfolio.jpg)
 
-## Fakhreddine, Messaoudi 👋
+## Fakhreddine Messaoudi 👋
 
-### Who Am I? :
+### Who Am I?
 
-I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as Civil engineering, Because i am already a Civil Engineering Technician. I also enjoy working on desing, Photoshop cs6, LightRoom, Premier Pro, Autocad, Autodesk Robot, and design in general, I am currently still studying as a software  developer . I really enjoy coding than anything else I do.
+Hello world! I am Fakhreddine Messaoudi from Tunisia and I am currently studying as a software developer at RBK, a Coding RebootKamp powered by Hack Reactor. I create content in design and development using different libraries and frameworks such as React, Vue.js, Node.js, Nest.js, etc. I also enjoy designing with Photoshop cs6, LightRoom, Premier Pro. I have a background in Civil Engineering so I enjoy working with Autocad and Autodesk Robot. When I am not developing, you can find me learning things on YouTube, writing [articles ..](https://medium.com/me/stories/public), watching series, or on my laptop gaming. But most of my days are spent working on projects.
 
-### I'm a Software Developers !! <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### I am a Software Developer! <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects / dive deeper with react
-- ⚡ Fun fact: I love Gaming and coding / Linux / the most fun fact thing is that i'm jumping everywhere 🤣🤣🤣
+- ⚡ Fun fact: I love Gaming and coding / Linux / the funniest thing about me is that I am jumping everywhere.
 [I usually write blogs](https://fakhri19971998.medium.com/)
 
 <br />
@@ -63,14 +63,6 @@ I'm Fakhreddine Messaoudi from Tunisia, and I do content on Design and Developme
 <img align="left" alt="redux" width="45px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/>
 <img align="left" alt="hooks" width="45px" src="https://st.depositphotos.com/1732591/2697/v/600/depositphotos_26979399-stock-illustration-two-crossed-fishing-hook.jpg"/>
 
-
-
-
-
-
-
-
-## <br />
 ## <br />
 
 
