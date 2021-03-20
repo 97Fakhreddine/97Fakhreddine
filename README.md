@@ -81,9 +81,12 @@ Hello world! I am Fakhreddine Messaoudi from Tunisia and I am currently studying
 - [more ..](https://medium.com/me/stories/public)
 <!--END_SECTION:activity-->
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
 
 [![Fakhreedine's github stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine)](https://github.com/anuraghazra/github-readme-stats)
 
