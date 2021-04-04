@@ -5,8 +5,8 @@
 
 ### Full-stack developer
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="messaoudi-fakhreddine-603728190"><a class="LI-simple-link" href='https://tn.linkedin.com/in/messaoudi-fakhreddine-603728190?trk=profile-badge'>MESSAOUDI Fakhreddine</a></div>
+
+
 
 ![](/images/Portfolio.jpg)
 
@@ -30,7 +30,7 @@ Hello world! I am Fakhreddine Messaoudi from Tunisia and I am currently studying
 
 ## Skills and Experience :
 
-⚛ React
+⚛ React 
 💻 HTML, CSS, JS, Autocad, Photoshop, Robot, etc...
 
 ## <br />
@@ -94,3 +94,5 @@ Hello world! I am Fakhreddine Messaoudi from Tunisia and I am currently studying
 <br />
 
 <img align="left" alt="linkindIn" width="26px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" /> [linkedin](https://www.linkedin.com/in/messaoudi-fakhreddine-603728190/)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="messaoudi-fakhreddine-603728190"><a class="LI-simple-link" href='https://tn.linkedin.com/in/messaoudi-fakhreddine-603728190?trk=profile-badge'>MESSAOUDI Fakhreddine</a></div>
