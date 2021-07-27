@@ -85,7 +85,7 @@ I'am currently working as a Full Stack JS Developer at [The Office](https://www.
 - [more ..](https://medium.com/me/stories/public)
 <!--END_SECTION:activity-->
 
-
+<!-- 
 ![Fakhreedine's  GitHub stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine&show_icons=true&theme=radical)
 
 
@@ -97,3 +97,4 @@ I'am currently working as a Full Stack JS Developer at [The Office](https://www.
 <img align="left" alt="linkindIn" width="26px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" /> [linkedin](https://www.linkedin.com/in/messaoudi-fakhreddine-603728190/)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="messaoudi-fakhreddine-603728190"><a class="LI-simple-link" href='https://tn.linkedin.com/in/messaoudi-fakhreddine-603728190?trk=profile-badge'>MESSAOUDI Fakhreddine</a></div>
+ -->
