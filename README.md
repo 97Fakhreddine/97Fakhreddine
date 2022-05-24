@@ -17,15 +17,15 @@
 Hello world! I am Fakhreddine Messaoudi from Tunisia and I have graduated as a Full Stack JS Developer from RBK, a Coding RebootKamp powered by Hack Reactor.
 I'am currently working as a Full Stack JS Developer at [The Office](https://www.linkedin.com/company/theofficetn/about/). Also I create content in design and development using different libraries and frameworks such as React, Vue.js, Node.js, Nest.js, etc. I also enjoy designing with Photoshop cs6, LightRoom, Premier Pro. I have a background in Civil Engineering so I enjoy working with Autocad and Autodesk Robot. When I am not developing, you can find me learning things on YouTube, writing [articles ..](https://medium.com/me/stories/public), watching series, or on my laptop gaming. But most of my days are spent working on projects.
  -->
-### I am a Software Developer! <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### I am a Full Stack Developer! <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects / dive deeper with react
+- 🥅 2023 Goals: Learn and dive more with React and Angular 
 - ⚡ Fun fact: I love Gaming and coding / Linux / the funniest thing about me is that I am jumping everywhere.
-[I usually write blogs](https://fakhri19971998.medium.com/)
+<!-- [I usually write blogs](https://fakhri19971998.medium.com/) -->
 
 <br />
 
@@ -72,7 +72,7 @@ I'am currently working as a Full Stack JS Developer at [The Office](https://www.
 ### <br />
 ## <br />
 
-
+<!-- 
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -84,7 +84,7 @@ I'am currently working as a Full Stack JS Developer at [The Office](https://www.
 - [The importance of planning before coding](https://fakhri19971998.medium.com/the-importance-of-planning-before-coding-a75c6d1dfcbb)
 - [more ..](https://medium.com/me/stories/public)
 <!--END_SECTION:activity-->
-
+ -->
 <!-- 
 ![Fakhreedine's  GitHub stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine&show_icons=true&theme=radical)
 
