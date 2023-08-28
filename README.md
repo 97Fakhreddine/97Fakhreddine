@@ -21,10 +21,36 @@ I'am currently working as a Full Stack JS Developer at [The Office](https://www.
 
 <br />
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn and dive more with React and Angular 
-- ⚡ Fun fact: I love Gaming and coding / Linux / the funniest thing about me is that I am jumping everywhere.
+👨‍💻 Talented Full Stack JavaScript Developer | CICD | Nginx | 3 Years Experience
+
+🔹 About Me 🔹
+Hello there! I'm Fakhreddine Messaoudi, a passionate and skilled Full Stack JavaScript Developer with nearly 3 years of hands-on experience in creating robust and dynamic web applications. My journey in the world of software development has been fueled by a deep fascination for crafting innovative solutions and staying on the cutting edge of technology.
+
+🚀 Expertise 🚀
+✅ Full Stack JavaScript Development: I excel in both front-end and back-end development, utilizing modern frameworks like React, Angular, and Node.js to create seamless user experiences.
+
+✅ Continuous Integration & Continuous Deployment (CICD): With a strong understanding of CICD pipelines and best practices, I ensure swift and efficient delivery of high-quality code to production.
+
+✅ Nginx: I possess a solid understanding of Nginx web server configurations and how to optimize it for improved performance, security, and scalability.
+
+💼 Professional Accomplishments 💼
+🏆 Successfully delivered multiple end-to-end projects, ranging from small-scale applications to large, enterprise-level solutions.
+
+🏆 Collaborated with cross-functional teams to gather requirements, design architecture, and implement complex features, fostering a culture of teamwork and excellence.
+
+🏆 Implemented CICD pipelines, significantly reducing deployment time and ensuring seamless integration between development and operations.
+
+🏆 Optimized Nginx configurations for high-traffic websites, resulting in enhanced website responsiveness and reduced server load.
+
+🌱 Learning & Growth 🌱
+I'm a firm believer in continuous learning and am always eager to stay ahead in the rapidly evolving tech landscape. Currently, I'm exploring cloud-native technologies like Docker and Kubernetes to enhance application scalability and performance.
+
+💬 Let's Connect! 💬
+I'm open to networking opportunities, collaboration, and sharing knowledge within the tech community. Feel free to reach out to me if you're interested in discussing exciting projects, industry trends, or if you need any assistance with JavaScript development, CICD implementation, or Nginx optimizations.
+
+📧 Email: fakhry.messaoudi@gmail.com
+🌐 Portfolio: https://fakhreddine-messaoudi.netlify.app
+🔗 LinkedIn: https://www.linkedin.com/in/97fakhreddine
 <!-- [I usually write blogs](https://fakhri19971998.medium.com/) -->
 
 <br />
