@@ -1,29 +1,7 @@
-## Hello, world! 💚👋👋
-
- 
- <br />
-
-### Full-stack developer
-
-
-
-
-<!-- ![](/images/Portfolio.jpg) -->
-
-## Fakhreddine Messaoudi 👋
-
-<!-- ### Who Am I?
-
-Hello world! I am Fakhreddine Messaoudi from Tunisia and I have graduated as a Full Stack JS Developer from RBK, a Coding RebootKamp powered by Hack Reactor.
-I'am currently working as a Full Stack JS Developer at [The Office](https://www.linkedin.com/company/theofficetn/about/). Also I create content in design and development using different libraries and frameworks such as React, Vue.js, Node.js, Nest.js, etc. I also enjoy designing with Photoshop cs6, LightRoom, Premier Pro. I have a background in Civil Engineering so I enjoy working with Autocad and Autodesk Robot. When I am not developing, you can find me learning things on YouTube, writing [articles ..](https://medium.com/me/stories/public), watching series, or on my laptop gaming. But most of my days are spent working on projects.
- -->
-### I am a Full Stack Developer! <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
-
 👨‍💻 Talented Full Stack JavaScript Developer | CICD | Nginx | 3 Years Experience
 
 🔹 About Me 🔹
+<br />
 Hello there! I'm Fakhreddine Messaoudi, a passionate and skilled Full Stack JavaScript Developer with nearly 3 years of hands-on experience in creating robust and dynamic web applications. My journey in the world of software development has been fueled by a deep fascination for crafting innovative solutions and staying on the cutting edge of technology.
 
 🚀 Expertise 🚀
