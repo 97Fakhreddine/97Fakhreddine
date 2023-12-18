@@ -8,7 +8,15 @@
 <br />
 Coding is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
 <br />
+
+![Total Commits](https://img.shields.io/github/commit-activity/m/your-username/your-repository?style=flat-square)
+
+
 ![Fakhreedine's  GitHub stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine&show_icons=true&theme=radical)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/your-username/your-repository?style=flat-square)
+![GitHub Contributions](https://img.shields.io/github/contributions/your-username/your-repository?style=flat-square)
+![Testing Status](https://img.shields.io/github/workflow/status/your-username/your-repository/Your-Workflow-Name?label=Testing&style=flat-square)
+![GitHub Actions](https://img.shields.io/github/workflow/status/your-username/your-repository/Your-Workflow-Name?label=GitHub%20Actions&style=flat-square)
 
 ## Skills & Tools 🛠️
 
