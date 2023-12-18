@@ -4,9 +4,8 @@
 [![Medium](https://img.shields.io/badge/Medium-Follow-orange)](https://fakhrymessaoudi.medium.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://fakhreddine-messaoudi.netlify.app/)
 ## 🔹 My View 🔹
-<br />
-- Coding is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
-<br />
+
+- **Coding** is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
 
 ![Fakhreedine's  GitHub stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine&show_icons=true&theme=radical)
 
