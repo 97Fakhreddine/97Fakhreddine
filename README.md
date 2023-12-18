@@ -1,42 +1,42 @@
-👨‍💻 Talented Full Stack JavaScript Developer | CICD | Nginx | 3 Years Experience
+# Full Stack JavaScript Developer
 
-🔹 About Me 🔹
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/97fakhreddine/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-orange)](https://fakhrymessaoudi.medium.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://fakhreddine-messaoudi.netlify.app/)
+
+🔹 My View 🔹
 <br />
-Hello there! I'm Fakhreddine Messaoudi, a passionate and skilled Full Stack JavaScript Developer with nearly 3 years of hands-on experience in creating robust and dynamic web applications. My journey in the world of software development has been fueled by a deep fascination for crafting innovative solutions and staying on the cutting edge of technology.
-
-🚀 Expertise 🚀
-✅ Full Stack JavaScript Development: I excel in both front-end and back-end development, utilizing modern frameworks like React, Angular, and Node.js to create seamless user experiences.
-
-✅ Continuous Integration & Continuous Deployment (CICD): With a strong understanding of CICD pipelines and best practices, I ensure swift and efficient delivery of high-quality code to production.
-
-✅ Nginx: I possess a solid understanding of Nginx web server configurations and how to optimize it for improved performance, security, and scalability.
-
-💼 Professional Accomplishments 💼
-🏆 Successfully delivered multiple end-to-end projects, ranging from small-scale applications to large, enterprise-level solutions.
-
-🏆 Collaborated with cross-functional teams to gather requirements, design architecture, and implement complex features, fostering a culture of teamwork and excellence.
-
-🏆 Implemented CICD pipelines, significantly reducing deployment time and ensuring seamless integration between development and operations.
-
-🏆 Optimized Nginx configurations for high-traffic websites, resulting in enhanced website responsiveness and reduced server load.
-
-🌱 Learning & Growth 🌱
-I'm a firm believer in continuous learning and am always eager to stay ahead in the rapidly evolving tech landscape. Currently, I'm exploring cloud-native technologies like Docker and Kubernetes to enhance application scalability and performance.
-
-💬 Let's Connect! 💬
-I'm open to networking opportunities, collaboration, and sharing knowledge within the tech community. Feel free to reach out to me if you're interested in discussing exciting projects, industry trends, or if you need any assistance with JavaScript development, CICD implementation, or Nginx optimizations.
-
-📧 Email: fakhry.messaoudi@gmail.com
-🌐 Portfolio: https://fakhreddine-messaoudi.netlify.app
-🔗 LinkedIn: https://www.linkedin.com/in/97fakhreddine
-<!-- [I usually write blogs](https://fakhri19971998.medium.com/) -->
-
+Coding is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
 <br />
 
-## Skills and Experience :
+## Skills
 
-⚛ React 
-💻 HTML, CSS, JS, Autocad, Photoshop, Robot, etc...
+### Front-end Development:
+- **HTML5 & CSS3:** Proficient in semantic HTML markup and modern CSS features for responsive and visually appealing web designs.
+- **JavaScript (ES6+):** Strong command over ES6+ features, DOM manipulation, asynchronous programming, and modern JavaScript frameworks/libraries like React.js, Angular, and Vue.js.
+- **UI/UX Design:** Familiarity with design principles, usability, and creating intuitive user interfaces.
+
+### Back-end Development:
+- **Node.js & Express.js:** Extensive experience in building scalable server-side applications using Node.js and Express.js.
+- **Database Management:** Proficient in working with databases like MongoDB, MySQL, and PostgreSQL, including query optimization, schema design, and database performance tuning.
+- **GraphQL & RESTful APIs:** Developing and consuming APIs, implementing GraphQL and RESTful architecture for efficient data retrieval and manipulation.
+
+### DevOps & Tools:
+- **Version Control:** Proficient in Git for version control and collaboration among development teams.
+- **Build Tools & Automation:** Experience with Webpack, Babel, npm/yarn for managing dependencies, bundling, and automating build processes.
+- **Containerization:** Familiarity with Docker for containerization, facilitating efficient deployment and scalability.
+- **Cloud Platforms:** Working knowledge of AWS/GCP services for deploying and managing applications in the cloud.
+- **Continuous Integration/Continuous Deployment (CI/CD):** Experience with Jenkins or other CI/CD tools for automating software delivery pipelines.
+
+### Testing:
+- **Unit Testing:** Proficient in writing unit tests using Jest, Mocha, and Chai for ensuring code reliability.
+- **End-to-End Testing:** Experience in end-to-end testing frameworks like Selenium and Cypress for testing application functionalities.
+
+### Other Skills:
+- **Linux Proficiency:** Comfortable working in Linux environments, familiarity with command-line tools, shell scripting, and server management on Linux-based systems.
+- **Agile Methodologies:** Experience working in Agile/Scrum environments, iterative development, and collaborative team practices.
+- **Responsive Design:** Designing and developing responsive web applications to ensure compatibility across various devices and screen sizes.
+- **Cross-Browser Compatibility:** Ensuring web applications function correctly across different browsers and devices.
 
 ## <br />
 
