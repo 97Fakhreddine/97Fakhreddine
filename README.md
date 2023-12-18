@@ -3,20 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/97fakhreddine/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-orange)](https://fakhrymessaoudi.medium.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://fakhreddine-messaoudi.netlify.app/)
-
+![Total Commits](https://img.shields.io/github/commit-activity/m/97Fakhreddine/your-repository?style=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/97Fakhreddine/your-repository?style=flat-square)
+![GitHub Contributions](https://img.shields.io/github/contributions/97Fakhreddine/your-repository?style=flat-square)
+![Testing Status](https://img.shields.io/github/workflow/status/97Fakhreddine/your-repository/Your-Workflow-Name?label=Testing&style=flat-square)
+![GitHub Actions](https://img.shields.io/github/workflow/status/97Fakhreddine/your-repository/Your-Workflow-Name?label=GitHub%20Actions&style=flat-square)
 🔹 My View 🔹
 <br />
 Coding is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
 <br />
 
-![Total Commits](https://img.shields.io/github/commit-activity/m/97Fakhreddine/your-repository?style=flat-square)
 ![Fakhreedine's  GitHub stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine&show_icons=true&theme=radical)
-![Pull Requests](https://img.shields.io/github/issues-pr-closed/97Fakhreddine/your-repository?style=flat-square)
-![GitHub Contributions](https://img.shields.io/github/contributions/97Fakhreddine/your-repository?style=flat-square)
-![Testing Status](https://img.shields.io/github/workflow/status/97Fakhreddine/your-repository/Your-Workflow-Name?label=Testing&style=flat-square)
-![GitHub Actions](https://img.shields.io/github/workflow/status/97Fakhreddine/your-repository/Your-Workflow-Name?label=GitHub%20Actions&style=flat-square)
-<br />
-<br />
 
 ## Skills & Tools 🛠️
 
