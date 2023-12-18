@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://fakhreddine-messaoudi.netlify.app/)
 ## 🔹 My View 🔹
 <br />
-Coding is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
+- Coding is the art of crafting solutions, where lines of code weave the fabric of innovation, turning ideas into reality, and empowering change in the digital landscape.
 <br />
 
 ![Fakhreedine's  GitHub stats](https://github-readme-stats.vercel.app/api?username=97Fakhreddine&show_icons=true&theme=radical)
@@ -57,5 +57,5 @@ Coding is the art of crafting solutions, where lines of code weave the fabric of
 - **Agile Methodologies:** Experience working in Agile/Scrum environments, iterative development, and collaborative team practices.
 - **Responsive Design:** Designing and developing responsive web applications to ensure compatibility across various devices and screen sizes.
 - **Cross-Browser Compatibility:** Ensuring web applications function correctly across different browsers and devices.
-- 
+
 
