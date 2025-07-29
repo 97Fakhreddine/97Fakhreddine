@@ -1,4 +1,4 @@
-# Full Stack JavaScript Developer
+# Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/97fakhreddine/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-orange)](https://fakhrymessaoudi.medium.com/)
